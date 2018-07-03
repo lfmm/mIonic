@@ -1,0 +1,23 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.0.1",
+    "props": {
+      "location": "path",
+      "appName": "mIonic",
+      "target": [
+        "web",
+        "cordova"
+      ],
+      "pwa": true,
+      "mobile": [
+        "ios",
+        "android"
+      ],
+      "ui": "ionic",
+      "auth": true,
+      "angulartics": false,
+      "projectName": "m-ionic",
+      "packageManager": "npm"
+    }
+  }
+}
